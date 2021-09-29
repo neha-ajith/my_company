@@ -1,4 +1,4 @@
-# auth_task
+# my_company
 
 A flutter app that uses authentication in firebase.
 

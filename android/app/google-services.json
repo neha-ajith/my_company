@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010712096692",
+    "firebase_url": "https://authenticate-c3176.firebaseio.com",
+    "project_id": "authenticate-c3176",
+    "storage_bucket": "authenticate-c3176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010712096692:android:ad5dcdacecdd9d609a4ce1",
+        "android_client_info": {
+          "package_name": "com.example.my_company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010712096692-qgsvo3bqd2copfejd5j3988i4rvsm3s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiS76ThcJef9HZi22XDN26YcMKdzIwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010712096692-qgsvo3bqd2copfejd5j3988i4rvsm3s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

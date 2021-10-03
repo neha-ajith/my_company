@@ -1,4 +1,4 @@
-# my_company
+# My company
 
 A flutter app that uses authentication in firebase.
 

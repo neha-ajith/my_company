@@ -1,6 +1,6 @@
-# my_company
+# My company
 
-A flutter app that uses authentication in firebase.
+A flutter app that uses authentication in firebase. Made using [flutter 1.5.0](https://flutter.dev/docs/development/tools/sdk/releases)
 
 ## Screenshots
 
